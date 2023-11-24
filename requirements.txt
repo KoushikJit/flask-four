@@ -1,5 +1,5 @@
 accelerate==0.20.3
-blinker==1.7.0
+blinker==1.6.3
 certifi==2023.11.17
 charset-normalizer==3.3.2
 click==8.1.3
